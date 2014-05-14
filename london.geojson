@@ -232,6 +232,24 @@
           51.496641083931664
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harrod's",
+        "type": "Shopping",
+        "price": "Free",
+        "address": "",
+        "hours": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.16297101974487305,
+          51.4991658081944
+        ]
+      }
     }
   ]
 }
