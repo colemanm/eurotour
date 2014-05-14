@@ -8,7 +8,8 @@
         "type": "Museum",
         "price": "£17 (combined with Cutty Sark)",
         "address": "Blackheath Ave London SE10 8XJ United Kingdom",
-        "hours": "10:00-17:00"
+        "hours": "10:00-17:00",
+        "website": ""
       },
       "geometry": {
         "type": "Point",
@@ -25,7 +26,8 @@
         "type": "Museum",
         "price": "Free",
         "address": "Park Row, Greenwich, London SE10 9NF",
-        "hours": "10:00-17:00"
+        "hours": "10:00-17:00",
+        "website": "http://www.rmg.co.uk/national-maritime-museum"
       },
       "geometry": {
         "type": "Point",
