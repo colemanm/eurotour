@@ -250,6 +250,24 @@
           51.4991658081944
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camden",
+        "type": "Shopping",
+        "price": "Free",
+        "address": "",
+        "hours": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.14262914657592773,
+          51.53975591616526
+        ]
+      }
     }
   ]
 }
