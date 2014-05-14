@@ -178,6 +178,24 @@
           51.50652544955703
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "British Museum",
+        "type": "Museum",
+        "price": "Free",
+        "address": "",
+        "hours": "10:00-17:30",
+        "website": "http://www.britishmuseum.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12638568878173828,
+          51.51871766548264
+        ]
+      }
     }
   ]
 }
