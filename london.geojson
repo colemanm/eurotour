@@ -76,7 +76,8 @@
         "type": "Attraction",
         "price": "£22",
         "hours": "Tu-Sa 09:00-17:00; Su-Mo 10:00-17:00",
-        "address": "London EC3N 4AB U"
+        "address": "London EC3N 4AB U",
+        "website": "http://www.hrp.org.uk/TowerOfLondon/"
       },
       "geometry": {
         "type": "Point",
