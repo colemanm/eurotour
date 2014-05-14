@@ -124,6 +124,42 @@
           51.51196093686036
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waterloo Station",
+        "type": "Sight",
+        "price": "Free (to see)",
+        "address": "",
+        "hours": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.11340379714965819,
+          51.50201096474784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tower Bridge",
+        "type": "Sight",
+        "price": "Free",
+        "address": "",
+        "hours": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07544517517089844,
+          51.505456972844144
+        ]
+      }
     }
   ]
 }
