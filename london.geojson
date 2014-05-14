@@ -9,7 +9,7 @@
         "price": "£17 (combined with Cutty Sark)",
         "address": "Blackheath Ave London SE10 8XJ United Kingdom",
         "hours": "10:00-17:00",
-        "website": ""
+        "website": "http://www.rmg.co.uk/royal-observatory"
       },
       "geometry": {
         "type": "Point",
@@ -44,7 +44,8 @@
         "type": "Museum",
         "price": "£17 (combined with Observatory)",
         "address": "Blackheath Ave London SE10 8XJ United Kingdom",
-        "hours": "10:00-17:00"
+        "hours": "10:00-17:00",
+        "website": "http://www.rmg.co.uk/cuttysark"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +62,8 @@
         "type": "Attraction",
         "price": "£18 (audio tour), £7.50 (museum only)",
         "address": "Hornsey Rd, London N7 7AJ",
-        "hours": "Mo-Sa 10:00-17:00; Su 10:00-15:30"
+        "hours": "Mo-Sa 10:00-17:00; Su 10:00-15:30",
+        "website": "http://www.arsenal.com/emirates-stadium"
       },
       "geometry": {
         "type": "Point",
