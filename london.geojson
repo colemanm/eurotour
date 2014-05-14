@@ -90,6 +90,40 @@
           51.50820824957313
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "London Eye",
+        "type": "Attraction",
+        "price": "£29.50 (on day), £26.55 (online)",
+        "website": "http://www.londoneye.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.11962652206420898,
+          51.50322644696354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "London Transport Museum",
+        "type": "Museum",
+        "price": "£15.00",
+        "address": "",
+        "hours": "Monday-Thursday, Saturday and Sunday 10:00 - 18:00, Friday 11:00 - 18:00",
+        "website": "http://www.ltmuseum.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12127876281738283,
+          51.51196093686036
+        ]
+      }
     }
   ]
 }
