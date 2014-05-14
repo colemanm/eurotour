@@ -283,6 +283,21 @@
           51.510091309234596
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Millennium Bridge",
+        "type": "Sight",
+        "price": "Free"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09858191013336182,
+          51.508852638677915
+        ]
+      }
     }
   ]
 }
