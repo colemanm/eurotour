@@ -160,6 +160,24 @@
           51.505456972844144
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HMS Belfast",
+        "type": "Attraction",
+        "price": "£15.50",
+        "address": "",
+        "hours": "10:00-17:00",
+        "website": "http://www.iwm.org.uk/visits/hms-belfast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0812387466430664,
+          51.50652544955703
+        ]
+      }
     }
   ]
 }
