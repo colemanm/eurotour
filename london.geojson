@@ -298,6 +298,21 @@
           51.508852638677915
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Battersea Park",
+        "type": "Park",
+        "price": "Free"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.15792846679687497,
+          51.47903091739699
+        ]
+      }
     }
   ]
 }
